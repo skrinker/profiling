@@ -2,8 +2,9 @@
 Small report about profiling some JavaScript operations
 
 # Technology stack
-React, TypeScript
+React <br />
+TypeScript <br />
 
 # Libs
-React Google Charts - https://www.react-google-charts.com/
-Lodash - https://lodash.com/
+React Google Charts - https://www.react-google-charts.com/ <br />
+Lodash - https://lodash.com/ <br />
