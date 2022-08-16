@@ -7,13 +7,13 @@ import { ShallowCopy } from "../../Profiling/Operations/ShallowCopy";
 import { For } from "../../Profiling/Operations/For";
 
 export const Charts = () => {
-	return (
-		<div className="charts">
-			<ProfilingResult idx={0} info={ArrayConcatenation} />
-			<ProfilingResult idx={1} info={ArrayCopy} />
-			<ProfilingResult idx={2} info={DeepCopy} />
-			<ProfilingResult idx={3} info={ShallowCopy} />
-			<ProfilingResult idx={4} info={For} />
-		</div>
-	);
+  return (
+    <div className="charts">
+      <ProfilingResult idx={0} info={ArrayConcatenation} />
+      <ProfilingResult idx={1} info={ArrayCopy} />
+      <ProfilingResult idx={2} info={DeepCopy} />
+      <ProfilingResult idx={3} info={ShallowCopy} />
+      <ProfilingResult idx={4} info={For} />
+    </div>
+  );
 };
