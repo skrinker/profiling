@@ -1,5 +1,5 @@
 # JS profiling
-Small report about profiling some JavaScript operations
+Small report about profiling some Javascript operations
 
 # Technology stack
 React <br />
